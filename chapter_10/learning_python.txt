@@ -1,0 +1,3 @@
+Python does not have strong types
+It is hard to read python code
+It is a primitive language which exists because people keep using it
